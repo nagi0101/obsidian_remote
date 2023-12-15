@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be9b92ffa8ac9430",
+        "id": "e14b62b9e207d129",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6adf5a2844daa6",
+            "id": "10a63c762f483879",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f6adf5a2844daa6",
+  "active": "10a63c762f483879",
   "lastOpenFiles": [
+    "Hello Obsidian!.md",
     "obsidian_remote",
     "2023-12-15.md"
   ]
