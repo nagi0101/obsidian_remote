@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-icon-folder",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-plugin-toc"
 ]
