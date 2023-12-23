@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/라이브러리.md",
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/라이브러리.md",
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/라이브러리.md",
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/라이브러리.md"
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "648fa8e70d67b7d7",
   "lastOpenFiles": [
-    "POCU 강의노트/Template.md",
-    "POCU 강의노트/라이브러리.md",
-    "POCU 강의노트/Hello C.md",
     "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/분할 컴파일과 전역 변수.md",
+    "POCU 강의노트/C 빌드 과정.md",
+    "POCU 강의노트/Template.md",
+    "POCU 강의노트/Hello C.md",
     "POCU 강의노트/Media/Untitled 16.png",
-    "POCU 강의노트/라이브러리.md",
     "POCU 강의노트/Media/Untitled 15.png",
     "POCU 강의노트/Media/Untitled 14.png",
     "POCU 강의노트/Media/Untitled 13.png",
@@ -166,7 +166,6 @@
     "POCU 강의노트/Media/Untitled 10.png",
     "POCU 강의노트/Media/Untitled 9 2.png",
     "POCU 강의노트/Media/Untitled 9.png",
-    "POCU 강의노트/C 빌드 과정.md",
     "POCU 강의노트/C const 키워드.md",
     "POCU 강의노트/C 함수.md",
     "POCU 강의노트/C 자료형.md",
