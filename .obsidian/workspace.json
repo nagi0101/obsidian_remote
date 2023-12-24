@@ -11,9 +11,11 @@
             "id": "648fa8e70d67b7d7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png"
+                "file": "POCU 강의노트/C goto/C goto.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
+                "file": "POCU 강의노트/C goto/C goto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
+                "file": "POCU 강의노트/C goto/C goto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png"
+                "file": "POCU 강의노트/C goto/C goto.md"
               }
             }
           }
@@ -149,11 +151,16 @@
   },
   "active": "03a49e8ea88b37c0",
   "lastOpenFiles": [
+    "POCU 강의노트/C goto",
+    "POCU 강의노트/스택/스택.md",
+    "POCU 강의노트/C const 키워드/C const 키워드.md",
+    "POCU 강의노트/스택",
+    "POCU 강의노트/C const 키워드",
+    "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
     "POCU 강의노트/분할 컴파일과 전역 변수",
     "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
     "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223191036.png",
-    "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
     "POCU 강의노트/C 조건문과 반복문.md",
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/C 빌드 과정.md",
@@ -166,14 +173,12 @@
     "POCU 강의노트/Media/Untitled 12.png",
     "POCU 강의노트/Media/Untitled 11.png",
     "POCU 강의노트/Media/Untitled 10 2.png",
-    "POCU 강의노트/C const 키워드.md",
     "POCU 강의노트/C 함수.md",
     "POCU 강의노트/C 자료형.md",
     "POCU 강의노트/C 배열.md",
     "POCU 강의노트/C 범위.md",
-    "POCU 강의노트/스택.md",
     "POCU 강의노트/C 연산자.md",
-    "POCU 강의노트/C goto.md",
+    "POCU 강의노트/C goto/C goto.md",
     "Notion/POCU 강의노트/제목 없음.md",
     "POCU 강의노트/Media",
     "Notion/POCU 강의노트/C 조건문과 반복문",
@@ -182,9 +187,6 @@
     "Notion/POCU 강의노트/C 함수",
     "Notion/POCU 강의노트/C 자료형",
     "Notion/POCU 강의노트/C 빌드 과정",
-    "Notion/POCU 강의노트/C 배열",
-    "Notion/POCU 강의노트/Hello C",
-    "Notion/POCU 강의노트/C 범위",
     "Notion/프로그래머를 위한 컴퓨터 시스템/프로그래머를 위한 컴퓨터 시스템.md",
     "Notion/POCU 강의노트/C 기본 문법/C 조건문과 반복문.md",
     "Notion/POCU 강의노트/C 기본 문법/Hello C.md",
