@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md"
+                "file": "POCU 강의노트/POCU 강의노트.md"
               }
             }
           }
@@ -151,40 +151,40 @@
   },
   "active": "e0f3b088d8084158",
   "lastOpenFiles": [
+    "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
     "POCU 강의노트/POCU 강의노트.md",
-    "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
-    "POCU 강의노트/C 자료형/C 자료형.md",
-    "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
-    "POCU 강의노트/C 빌드 과정/C 빌드 과정.md",
-    "POCU 강의노트/C 배열/C 배열.md",
-    "POCU 강의노트/스택/스택.md",
-    "POCU 강의노트/스택/Pasted image 20231224112634.png",
+    "POCU 강의노트/C 기본 문법&빌드 단계",
+    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형/C 자료형.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/스택/스택.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/스택/Pasted image 20231224112634.png",
     "Pasted image 20231224114217.png.md",
     "Pasted image 20231224114215.png",
     "POCU 강의노트/스택/Pasted image 20231224114217.png",
     "Pasted image 20231224114203.png",
     "~$1%EA%B0%95.pptx",
-    "POCU 강의노트/C 범위/C 범위.md",
-    "POCU 강의노트/C 범위/Untitled 7.png",
-    "POCU 강의노트/C 함수/Untitled 6 3.png",
-    "POCU 강의노트/C 함수/C 함수.md",
-    "POCU 강의노트/Hello C/Hello C.md",
-    "POCU 강의노트/Hello C",
-    "POCU 강의노트/C 조건문과 반복문/C 조건문과 반복문.md",
-    "POCU 강의노트/C 함수",
-    "POCU 강의노트/C 조건문과 반복문",
-    "POCU 강의노트/C 자료형",
-    "POCU 강의노트/C 연산자/C 연산자.md",
-    "POCU 강의노트/C 연산자",
-    "POCU 강의노트/스택/Untitled 2 8.png",
-    "POCU 강의노트/C 빌드 과정",
-    "POCU 강의노트/C 범위",
-    "POCU 강의노트/C goto/C goto.md",
-    "POCU 강의노트/C 배열",
-    "POCU 강의노트/C goto",
-    "POCU 강의노트/C const 키워드/C const 키워드.md",
-    "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
-    "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223191036.png",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 범위/C 범위.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 범위/Untitled 7.png",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 함수/Untitled 6 3.png",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 함수/C 함수.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/Hello C/Hello C.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/Hello C",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 조건문과 반복문/C 조건문과 반복문.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 함수",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 조건문과 반복문",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자",
+    "POCU 강의노트/C 기본 문법&빌드 단계/스택/Untitled 2 8.png",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 범위",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C goto/C goto.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 배열",
+    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
+    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223191036.png",
     "POCU 강의노트/Template.md",
     "Notion/POCU 강의노트/제목 없음.md",
     "Notion/프로그래머를 위한 컴퓨터 시스템/프로그래머를 위한 컴퓨터 시스템.md",
