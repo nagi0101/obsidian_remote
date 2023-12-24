@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/스택/스택.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/스택/스택.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/스택/스택.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md"
+                "file": "POCU 강의노트/스택/스택.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   },
   "active": "648fa8e70d67b7d7",
   "lastOpenFiles": [
+    "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/C 빌드 과정/C 빌드 과정.md",
     "~$1%EA%B0%95.pptx",
     "POCU 강의노트/스택/스택.md",
-    "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/C 범위/C 범위.md",
     "POCU 강의노트/C 범위/Untitled 7.png",
     "POCU 강의노트/C 함수/Untitled 6 3.png",
