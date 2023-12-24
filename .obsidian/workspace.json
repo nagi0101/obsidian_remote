@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e138247a422bfba",
+        "id": "41fba25cae878b02",
         "type": "tabs",
         "children": [
           {
-            "id": "44dfa84cb371b216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POCU 강의노트/C 배열/C 배열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a54cb4b6a2b5d55e",
+            "id": "e0f3b088d8084158",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "44901ab51737a84e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POCU 강의노트/C 배열/C 배열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,8 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a54cb4b6a2b5d55e",
+  "active": "e0f3b088d8084158",
   "lastOpenFiles": [
+    "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
+    "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/C 빌드 과정/C 빌드 과정.md",
     "POCU 강의노트/C 배열/C 배열.md",
     "POCU 강의노트/POCU 강의노트.md",
@@ -185,7 +162,6 @@
     "Pasted image 20231224114215.png",
     "POCU 강의노트/스택/Pasted image 20231224114217.png",
     "Pasted image 20231224114203.png",
-    "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "~$1%EA%B0%95.pptx",
     "POCU 강의노트/C 범위/C 범위.md",
     "POCU 강의노트/C 범위/Untitled 7.png",
@@ -208,7 +184,6 @@
     "POCU 강의노트/C goto",
     "POCU 강의노트/C const 키워드/C const 키워드.md",
     "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
-    "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
     "POCU 강의노트/분할 컴파일과 전역 변수/Pasted image 20231223191036.png",
     "POCU 강의노트/Template.md",
     "Notion/POCU 강의노트/제목 없음.md",
