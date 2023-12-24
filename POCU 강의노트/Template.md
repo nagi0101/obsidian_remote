@@ -1,7 +1,7 @@
 ---
-Created: ""
-Updated: ""
+Created: 
+Updated: 
 Course: COMP2200
-tags: []
+tags: 
 Reviewed: false
 ---
