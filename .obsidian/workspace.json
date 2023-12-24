@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/포인터/포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "file": "POCU 강의노트/포인터/포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md"
+                "file": "POCU 강의노트/포인터/포인터.md"
               }
             }
           }
@@ -151,10 +151,10 @@
   },
   "active": "e0f3b088d8084158",
   "lastOpenFiles": [
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
-    "POCU 강의노트/포인터/포인터.md",
     "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
+    "POCU 강의노트/포인터/포인터.md",
     "POCU 강의노트/Template.md",
     "POCU 강의노트/포인터",
     "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
