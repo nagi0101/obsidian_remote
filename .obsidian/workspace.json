@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44901ab51737a84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POCU 강의노트/C 배열/C 배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md"
+                "file": "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md"
               }
             }
           }
@@ -164,16 +176,16 @@
   },
   "active": "a54cb4b6a2b5d55e",
   "lastOpenFiles": [
+    "POCU 강의노트/C 빌드 과정/C 빌드 과정.md",
     "POCU 강의노트/C 배열/C 배열.md",
-    "POCU 강의노트/스택/스택.md",
     "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/스택/스택.md",
     "POCU 강의노트/스택/Pasted image 20231224112634.png",
     "Pasted image 20231224114217.png.md",
     "Pasted image 20231224114215.png",
     "POCU 강의노트/스택/Pasted image 20231224114217.png",
     "Pasted image 20231224114203.png",
     "POCU 강의노트/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
-    "POCU 강의노트/C 빌드 과정/C 빌드 과정.md",
     "~$1%EA%B0%95.pptx",
     "POCU 강의노트/C 범위/C 범위.md",
     "POCU 강의노트/C 범위/Untitled 7.png",
