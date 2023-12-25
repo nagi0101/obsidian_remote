@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "POCU 강의노트/포인터/포인터.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -151,6 +151,7 @@
   },
   "active": "e0f3b088d8084158",
   "lastOpenFiles": [
+    "POCU 강의노트/포인터/Pasted image 20231225114259.png",
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
@@ -196,7 +197,6 @@
     "Notion/POCU 강의노트/C 기본 문법/C const 키워드.md",
     "Notion/POCU 강의노트/C 기본 문법/C 연산자.md",
     "Notion/POCU 강의노트/C 기본 문법/C 범위.md",
-    "Notion/POCU 강의노트/C 기본 문법/C goto.md",
     "Untitled.canvas"
   ]
 }
