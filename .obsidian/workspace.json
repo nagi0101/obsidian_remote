@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 208.5
   },
   "right": {
     "id": "9caa4b2cb76838b0",
@@ -151,12 +151,14 @@
   },
   "active": "e0f3b088d8084158",
   "lastOpenFiles": [
-    "POCU 강의노트/포인터/Pasted image 20231225114259.png",
+    "Pasted image 20231225115926.png",
+    "POCU 강의노트/포인터/포인터.md",
+    "Pasted image 20231225115921.png",
     "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/Template.md",
+    "POCU 강의노트/포인터/Pasted image 20231225114259.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
-    "POCU 강의노트/포인터/포인터.md",
-    "POCU 강의노트/Template.md",
     "POCU 강의노트/포인터",
     "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
     "POCU 강의노트/C 기본 문법&빌드 단계",
@@ -182,12 +184,9 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자",
-    "POCU 강의노트/C 기본 문법&빌드 단계/스택/Untitled 2 8.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 범위",
     "POCU 강의노트/C 기본 문법&빌드 단계/C goto/C goto.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223190654.png",
-    "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223191036.png",
     "Notion/POCU 강의노트/제목 없음.md",
     "Notion/프로그래머를 위한 컴퓨터 시스템/프로그래머를 위한 컴퓨터 시스템.md",
     "Notion/POCU 강의노트/C 기본 문법/C 조건문과 반복문.md",
