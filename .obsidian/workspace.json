@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
-                "mode": "preview",
+                "file": "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
+                "file": "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
+                "file": "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md"
+                "file": "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "e0f3b088d8084158",
   "lastOpenFiles": [
-    "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/포인터/포인터.md",
+    "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/포인터/Pasted image 20231228140455.png",
     "대학 강의/소설은 현실을 반영한다.md",
     "대학 강의",
