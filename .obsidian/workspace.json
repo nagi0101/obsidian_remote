@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c547b9457cf4c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "소설은 현실을 반영한다.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
+                "file": "소설은 현실을 반영한다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
+                "file": "소설은 현실을 반영한다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md"
+                "file": "소설은 현실을 반영한다.md"
               }
             }
           }
@@ -149,12 +162,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0f3b088d8084158",
+  "active": "1c547b9457cf4c56",
   "lastOpenFiles": [
+    "POCU 강의노트/포인터/포인터.md",
+    "소설은 현실을 반영한다.md",
     "POCU 강의노트/포인터/Pasted image 20231225120532.png",
     "POCU 강의노트/포인터/Pasted image 20231225120447.png",
     "POCU 강의노트/포인터/Pasted image 20231225114259.png",
-    "POCU 강의노트/포인터/포인터.md",
     "Pasted image 20231225115921.png",
     "Pasted image 20231225115926.png",
     "POCU 강의노트/POCU 강의노트.md",
