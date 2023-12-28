@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소설은 현실을 반영한다.md",
+                "file": "대학 강의/소설은 현실을 반영한다.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소설은 현실을 반영한다.md",
+                "file": "대학 강의/소설은 현실을 반영한다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소설은 현실을 반영한다.md",
+                "file": "대학 강의/소설은 현실을 반영한다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소설은 현실을 반영한다.md"
+                "file": "대학 강의/소설은 현실을 반영한다.md"
               }
             }
           }
@@ -165,7 +165,8 @@
   "active": "1c547b9457cf4c56",
   "lastOpenFiles": [
     "POCU 강의노트/포인터/포인터.md",
-    "소설은 현실을 반영한다.md",
+    "대학 강의/소설은 현실을 반영한다.md",
+    "대학 강의",
     "POCU 강의노트/포인터/Pasted image 20231225120532.png",
     "POCU 강의노트/포인터/Pasted image 20231225120447.png",
     "POCU 강의노트/포인터/Pasted image 20231225114259.png",
@@ -199,7 +200,6 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 범위",
     "POCU 강의노트/C 기본 문법&빌드 단계/C goto/C goto.md",
     "Notion/POCU 강의노트/제목 없음.md",
     "Notion/프로그래머를 위한 컴퓨터 시스템/프로그래머를 위한 컴퓨터 시스템.md",
@@ -209,7 +209,6 @@
     "Notion/POCU 강의노트/C 기본 문법/C 자료형.md",
     "Notion/POCU 강의노트/C 기본 문법/C const 키워드.md",
     "Notion/POCU 강의노트/C 기본 문법/C 연산자.md",
-    "Notion/POCU 강의노트/C 기본 문법/C 범위.md",
     "Untitled.canvas"
   ]
 }
