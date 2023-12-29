@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0f3b088d8084158",
+            "id": "fd22f70edc223536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학 강의/소설은 현실을 반영한다.md",
+                "file": "대학 강의/주제연구/소설은 현실을 반영한다.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd22f70edc223536",
+            "id": "0d5eab3927c405cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학 강의/학술 에세이 작성법.md",
+                "file": "대학 강의/경희대학교 강의노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학 강의/학술 에세이 작성법.md",
+                "file": "대학 강의/경희대학교 강의노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학 강의/학술 에세이 작성법.md",
+                "file": "대학 강의/경희대학교 강의노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학 강의/학술 에세이 작성법.md"
+                "file": "대학 강의/경희대학교 강의노트.md"
               }
             }
           }
@@ -162,13 +162,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd22f70edc223536",
+  "active": "0d5eab3927c405cc",
   "lastOpenFiles": [
-    "대학 강의/소설은 현실을 반영한다.md",
-    "대학 강의/학술 에세이 작성법.md",
+    "POCU 강의노트/POCU 강의노트.md",
+    "대학 강의/경희대학교 강의노트.md",
+    "대학 강의/주제연구/학술 에세이 작성법.md",
+    "대학 강의/주제연구/소설은 현실을 반영한다.md",
+    "대학 강의/주제연구",
     "POCU 강의노트/포인터/포인터.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
-    "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/Template.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형/C 자료형.md",
     "POCU 강의노트/포인터/Pasted image 20231228140455.png",
@@ -200,7 +202,6 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 조건문과 반복문",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정",
     "POCU 강의노트/C 기본 문법&빌드 단계/C goto/C goto.md",
     "Notion/POCU 강의노트/제목 없음.md",
     "Notion/프로그래머를 위한 컴퓨터 시스템/프로그래머를 위한 컴퓨터 시스템.md",
@@ -209,7 +210,6 @@
     "Notion/POCU 강의노트/C 기본 문법/C 함수.md",
     "Notion/POCU 강의노트/C 기본 문법/C 자료형.md",
     "Notion/POCU 강의노트/C 기본 문법/C const 키워드.md",
-    "Notion/POCU 강의노트/C 기본 문법/C 연산자.md",
     "Untitled.canvas"
   ]
 }
