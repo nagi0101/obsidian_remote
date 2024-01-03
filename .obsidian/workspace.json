@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
+                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
+                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md",
+                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터.md"
+                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md"
               }
             }
           }
@@ -151,11 +151,17 @@
   },
   "active": "e621d92c2d74abb9",
   "lastOpenFiles": [
-    "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
-    "POCU 강의노트/포인터/포인터.md",
-    "POCU 강의노트/포인터/널 포인터/널 포인터.md",
     "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
+    "POCU 강의노트/포인터/포인터.md",
+    "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
+    "Untitled.md",
+    "POCU 강의노트/포인터/포인터와 연산자",
+    "POCU 강의노트/포인터/Pasted image 20231225114259.png",
+    "POCU 강의노트/포인터/Pasted image 20231225120447.png",
+    "POCU 강의노트/포인터/Pasted image 20231225120532.png",
+    "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/포인터/널 포인터/널 포인터.md",
     "POCU 강의노트/포인터/포인터와 배열",
     "POCU 강의노트/포인터/널 포인터",
     "POCU 강의노트/포인터/포인터와 함수/Pasted image 20231228140455.png",
@@ -169,9 +175,6 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형/C 자료형.md",
     "대학 강의",
-    "POCU 강의노트/포인터/Pasted image 20231225120532.png",
-    "POCU 강의노트/포인터/Pasted image 20231225120447.png",
-    "POCU 강의노트/포인터/Pasted image 20231225114259.png",
     "Pasted image 20231225115921.png",
     "Pasted image 20231225115926.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
@@ -192,11 +195,8 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/Hello C/Hello C.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/Hello C",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 조건문과 반복문/C 조건문과 반복문.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 함수",
     "POCU 강의노트/C 기본 문법&빌드 단계/C goto/C goto.md",
     "Notion/POCU 강의노트/제목 없음.md",
-    "Notion/프로그래머를 위한 컴퓨터 시스템/프로그래머를 위한 컴퓨터 시스템.md",
-    "Notion/POCU 강의노트/C 기본 문법/C 조건문과 반복문.md",
     "Untitled.canvas"
   ]
 }
