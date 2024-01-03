@@ -11,15 +11,26 @@
             "id": "e621d92c2d74abb9",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "POCU 강의노트/포인터/포인터/Pasted image 20231225114259.png"
+              }
+            }
+          },
+          {
+            "id": "4c7ca03a522f7f5a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md"
+                "file": "POCU 강의노트/POCU 강의노트.md"
               }
             }
           }
@@ -149,17 +160,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e621d92c2d74abb9",
+  "active": "4c7ca03a522f7f5a",
   "lastOpenFiles": [
+    "POCU 강의노트/포인터/포인터/포인터.md",
+    "POCU 강의노트/포인터/포인터/Pasted image 20231225114259.png",
+    "POCU 강의노트/포인터/포인터/Pasted image 20231225120447.png",
+    "POCU 강의노트/포인터/포인터/Pasted image 20231225120532.png",
+    "POCU 강의노트/포인터/포인터",
+    "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
-    "POCU 강의노트/포인터/포인터.md",
-    "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
     "Untitled.md",
     "POCU 강의노트/포인터/포인터와 연산자",
-    "POCU 강의노트/포인터/Pasted image 20231225114259.png",
-    "POCU 강의노트/포인터/Pasted image 20231225120447.png",
-    "POCU 강의노트/포인터/Pasted image 20231225120532.png",
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/포인터/널 포인터/널 포인터.md",
     "POCU 강의노트/포인터/포인터와 배열",
@@ -193,10 +205,8 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 범위/C 범위.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 함수/C 함수.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/Hello C/Hello C.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/Hello C",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 조건문과 반복문/C 조건문과 반복문.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C goto/C goto.md",
-    "Notion/POCU 강의노트/제목 없음.md",
     "Untitled.canvas"
   ]
 }
