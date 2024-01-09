@@ -11,12 +11,8 @@
             "id": "4c7ca03a522f7f5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,6 +143,8 @@
   },
   "active": "4c7ca03a522f7f5a",
   "lastOpenFiles": [
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
+    "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
     "POCU 강의노트/POCU 강의노트.md",
@@ -160,7 +154,6 @@
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120447.png",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120532.png",
     "POCU 강의노트/포인터/포인터",
-    "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
     "Untitled.md",
     "POCU 강의노트/포인터/포인터와 연산자",
@@ -184,7 +177,6 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
     "POCU 강의노트/C 기본 문법&빌드 단계",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/스택.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/Pasted image 20231224112634.png",
     "Pasted image 20231224114217.png.md",
