@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1028675241ce2614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학 강의/주제연구/공산당 선언.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9caa4b2cb76838b0",
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "대학 강의/주제연구/공산당 선언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "대학 강의/주제연구/공산당 선언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "대학 강의/주제연구/공산당 선언.md"
+              }
             }
           }
         ],
@@ -141,8 +159,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c7ca03a522f7f5a",
+  "active": "03a49e8ea88b37c0",
   "lastOpenFiles": [
+    "대학 강의/경희대학교 강의노트.md",
+    "대학 강의/주제연구/공산당 선언.md",
+    "대학 강의/주제연구/소설은 현실을 반영한다.md",
+    "대학 강의/주제연구/학술 에세이 작성법.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
@@ -155,7 +177,6 @@
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120532.png",
     "POCU 강의노트/포인터/포인터",
     "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
-    "Untitled.md",
     "POCU 강의노트/포인터/포인터와 연산자",
     "POCU 강의노트/포인터/널 포인터/널 포인터.md",
     "POCU 강의노트/포인터/포인터와 배열",
@@ -163,9 +184,6 @@
     "POCU 강의노트/포인터/포인터와 함수/Pasted image 20231228140455.png",
     "POCU 강의노트/포인터/포인터와 함수/ㅇ.md",
     "POCU 강의노트/포인터/포인터와 함수",
-    "대학 강의/경희대학교 강의노트.md",
-    "대학 강의/주제연구/학술 에세이 작성법.md",
-    "대학 강의/주제연구/소설은 현실을 반영한다.md",
     "대학 강의/주제연구",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형/C 자료형.md",
     "대학 강의",
