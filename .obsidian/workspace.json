@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학 강의/주제연구/공산당 선언.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9caa4b2cb76838b0",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학 강의/주제연구/공산당 선언.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학 강의/주제연구/공산당 선언.md",
+                "file": "POCU 강의노트/POCU 강의노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학 강의/주제연구/공산당 선언.md"
+                "file": "POCU 강의노트/POCU 강의노트.md"
               }
             }
           }
@@ -161,22 +160,22 @@
   },
   "active": "1028675241ce2614",
   "lastOpenFiles": [
-    "대학 강의/경희대학교 강의노트.md",
+    "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
+    "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
+    "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "대학 강의/주제연구/공산당 선언.md",
+    "대학 강의/경희대학교 강의노트.md",
     "대학 강의/주제연구/소설은 현실을 반영한다.md",
     "대학 강의/주제연구/학술 에세이 작성법.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
-    "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
-    "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
-    "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/Template.md",
     "POCU 강의노트/포인터/포인터/포인터.md",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225114259.png",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120447.png",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120532.png",
     "POCU 강의노트/포인터/포인터",
-    "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
     "POCU 강의노트/포인터/포인터와 연산자",
     "POCU 강의노트/포인터/널 포인터/널 포인터.md",
     "POCU 강의노트/포인터/포인터와 배열",
