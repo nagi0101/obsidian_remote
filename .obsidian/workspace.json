@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c31676cff2d938d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,8 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1028675241ce2614",
+  "active": "c31676cff2d938d0",
   "lastOpenFiles": [
+    "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
+    "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
+    "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
+    "C 기본 문법&빌드 단계/C 배열/C 배열.md",
+    "C 기본 문법&빌드 단계/C 배열",
+    "C 기본 문법&빌드 단계",
     "Pasted image 20240117154234.png",
     "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md",
     "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
@@ -169,13 +187,10 @@
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/포인터/포인터와 const",
     "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
-    "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
-    "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "대학 강의/주제연구/공산당 선언.md",
     "대학 강의/경희대학교 강의노트.md",
     "대학 강의/주제연구/소설은 현실을 반영한다.md",
     "대학 강의/주제연구/학술 에세이 작성법.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
     "POCU 강의노트/포인터/포인터/포인터.md",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225114259.png",
@@ -191,19 +206,16 @@
     "POCU 강의노트/포인터/포인터와 함수",
     "대학 강의/주제연구",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형/C 자료형.md",
-    "대학 강의",
     "Pasted image 20231225115921.png",
     "Pasted image 20231225115926.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
-    "POCU 강의노트/포인터",
     "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/스택.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/Pasted image 20231224112634.png",
     "Pasted image 20231224114217.png.md",
     "Pasted image 20231224114215.png",
-    "POCU 강의노트/스택/Pasted image 20231224114217.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 범위/C 범위.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 함수/C 함수.md",
     "Untitled.canvas"
