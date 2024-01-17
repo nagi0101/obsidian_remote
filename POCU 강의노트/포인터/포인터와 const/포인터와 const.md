@@ -42,9 +42,14 @@ int const * p = &num; /* 방법2 */
 - 상수 int를 선언할 때 const int를 사용해서 그렇게 쓰는 듯
 - 그러니 방법 1을 코딩 표준으로 쓰자.
 
-### 같이 쓰기
+## 같이 쓰기
 ---
 ```C
 const int* const p = &num;
 ```
-- "p is a const pointer to"
+- "p is a const pointer to const int"
+- 자주 쓰이진 않음
+	- 초기화된 후 절대 바뀌지 않는 변수가 있을 때 정도만 유용할 듯
+		- 전역변수 or 구조체 멤버 변수 등
+- 중요한 것은 값을 보호하는 const가 더 중요하다는 것
+
