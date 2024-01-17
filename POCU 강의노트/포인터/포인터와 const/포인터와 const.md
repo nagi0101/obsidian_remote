@@ -53,3 +53,17 @@ const int* const p = &num;
 		- 전역변수 or 구조체 멤버 변수 등
 - 중요한 것은 값을 보호하는 const가 더 중요하다는 것
 
+## const는 절대로 제거하지 말 것
+---
+```C
+void print_array(const int* data, const int length)
+{
+        *((int*)data) = 10; /* 절대 하지 말 것. */
+}
+
+int main(void)
+{
+        int nums[] = { 1024, 9 };
+        int* p = nums;
+}
+```
