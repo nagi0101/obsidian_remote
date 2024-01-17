@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
+                "file": "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md"
+              }
             }
           }
         ],
@@ -162,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c31676cff2d938d0",
+  "active": "1028675241ce2614",
   "lastOpenFiles": [
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
