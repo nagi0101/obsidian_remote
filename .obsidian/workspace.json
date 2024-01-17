@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md"
+                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md"
               }
             }
           }
@@ -160,8 +160,12 @@
   },
   "active": "1028675241ce2614",
   "lastOpenFiles": [
-    "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
+    "POCU 강의노트/Template.md",
+    "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
+    "Untitled.md",
     "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/포인터/포인터와 const",
+    "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
     "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "대학 강의/주제연구/공산당 선언.md",
@@ -170,7 +174,6 @@
     "대학 강의/주제연구/학술 에세이 작성법.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 연산자/C 연산자.md",
-    "POCU 강의노트/Template.md",
     "POCU 강의노트/포인터/포인터/포인터.md",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225114259.png",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120447.png",
@@ -199,12 +202,10 @@
     "Pasted image 20231224114217.png.md",
     "Pasted image 20231224114215.png",
     "POCU 강의노트/스택/Pasted image 20231224114217.png",
-    "~$1%EA%B0%95.pptx",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 범위/C 범위.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 함수/C 함수.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/Hello C/Hello C.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 조건문과 반복문/C 조건문과 반복문.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C goto/C goto.md",
     "Untitled.canvas"
   ]
 }
