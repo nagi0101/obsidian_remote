@@ -15,3 +15,11 @@ FROM "POCU 강의노트/포인터"
 WHERE Course = "COMP2200"
 SORT Created
 ```
+
+### C 스타일 문자열
+```dataview
+TABLE Reviewed, tags, Created
+FROM "POCU 강의노트/C 스타일 문자열"
+WHERE Course = "COMP2200"
+SORT Created
+```
