@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md",
+                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/POCU 강의노트.md"
+                "file": "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "c31676cff2d938d0",
   "lastOpenFiles": [
-    "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md",
+    "POCU 강의노트/포인터/포인터와 배열/Pasted image 20240117154234.png",
     "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/포인터/포인터와 연산자/포인터와 연산자.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 배열/C 배열.md",
     "C 기본 문법&빌드 단계/C 배열/C 배열.md",
     "C 기본 문법&빌드 단계/C 배열",
     "C 기본 문법&빌드 단계",
-    "Pasted image 20240117154234.png",
     "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
     "POCU 강의노트/Template.md",
     "POCU 강의노트/포인터/포인터의 용도",
@@ -217,7 +217,6 @@
     "Pasted image 20231224114217.png.md",
     "Pasted image 20231224114215.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 범위/C 범위.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 함수/C 함수.md",
     "Untitled.canvas"
   ]
 }
