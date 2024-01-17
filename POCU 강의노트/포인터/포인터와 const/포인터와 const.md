@@ -29,4 +29,12 @@ const int* p = &num; /* 이건 다른거임 */
 - 이게 주소 보호보다 더 중요
 - 이 const는 반드시 신경써야함
 - 주소에 저장되어 있는 값을 변경하는 것 방지
-- 
+- 영어로
+	1.  "p is a pointer to int, which is const"
+	1.  "p is a pointer to const int"
+```c
+const int* p = &num;  /* 방법1 */
+int const * p = &num; /* 방법2 */
+```
+- 논리적으로 방법 2가 더 말이 되나 흔히 방법 1로 씀
+- 수const int
