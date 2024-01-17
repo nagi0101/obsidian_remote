@@ -2,7 +2,8 @@
 Created: 2024-01-17T14:46:00
 Updated: 2024-01-17T14:46:00
 Course: COMP2200
-tags: 
+tags:
+  - Best_Practice
 Reviewed: false
 ---
 - [[#const 포인터: 주소를 보호함|const 포인터: 주소를 보호함]]

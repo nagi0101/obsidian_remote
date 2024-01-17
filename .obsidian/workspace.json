@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
+                "file": "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
+                "file": "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
+                "file": "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/포인터/포인터와 const/포인터와 const.md"
+                "file": "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "1028675241ce2614",
   "lastOpenFiles": [
-    "POCU 강의노트/Template.md",
     "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
+    "POCU 강의노트/포인터/포인터의 용도/포인터의 용도.md",
+    "POCU 강의노트/Template.md",
+    "POCU 강의노트/포인터/포인터의 용도",
     "Untitled.md",
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/포인터/포인터와 const",
@@ -195,7 +197,6 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
     "POCU 강의노트/포인터",
     "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/스택.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/Pasted image 20231224112634.png",
@@ -205,7 +206,6 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 범위/C 범위.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 함수/C 함수.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/Hello C/Hello C.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C 조건문과 반복문/C 조건문과 반복문.md",
     "Untitled.canvas"
   ]
 }
