@@ -14,6 +14,10 @@ Reviewed: false
 - 포인터 변수에 const를 붙이면 메모리 주소를 바꿀 수 없음
 	- 포인터 변수에 저장된 값이 메모리 주소이니까
 	- 그러나 포인터 변수는 오른쪽에서 왼쪽으로 읽음
+		- "p is a const pointer to int"
+		- 때문에 아래와 같이 써야함
 ```C
-int* const p = &num; 
+int* const p = &num; /* 이렇게 써야 주소 변경 불가 */
+const int* p = &num; /* 이건 다른거임 */
 ```
+- 
