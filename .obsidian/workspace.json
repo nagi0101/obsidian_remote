@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/출력/출력.md",
+                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/출력/출력.md",
+                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/출력/출력.md",
+                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/출력/출력.md"
+                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "bfd366b876a029bf",
   "lastOpenFiles": [
+    "POCU 강의노트/C 스타일 문자열/출력/출력.md",
     "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
     "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
-    "POCU 강의노트/C 스타일 문자열/출력/출력.md",
     "POCU 강의노트/C 스타일 문자열/출력",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/POCU 강의노트.md",
