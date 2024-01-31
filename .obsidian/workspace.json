@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae237d2093ad66c",
+        "id": "4c30a11880df024b",
         "type": "tabs",
         "children": [
           {
-            "id": "1028675241ce2614",
+            "id": "bfd366b876a029bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Practice",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,12 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1028675241ce2614",
+  "active": "bfd366b876a029bf",
   "lastOpenFiles": [
+    "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/Template.md",
-    "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
     "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
     "POCU 강의노트/C 스타일 문자열/문자열 조작",
     "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이",
