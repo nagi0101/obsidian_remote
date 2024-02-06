@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
+                "file": "POCU 강의노트/입력/입력/입력.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
+                "file": "POCU 강의노트/입력/입력/입력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
+                "file": "POCU 강의노트/입력/입력/입력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md"
+                "file": "POCU 강의노트/입력/입력/입력.md"
               }
             }
           }
@@ -149,14 +149,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfd366b876a029bf",
+  "active": "03a49e8ea88b37c0",
   "lastOpenFiles": [
+    "POCU 강의노트/POCU 강의노트.md",
+    "POCU 강의노트/입력/입력/입력.md",
+    "POCU 강의노트/입력/입력",
     "POCU 강의노트/C 스타일 문자열/출력/출력.md",
+    "POCU 강의노트/입력",
     "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
     "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
     "POCU 강의노트/C 스타일 문자열/출력",
     "POCU 강의노트/포인터/포인터와 배열/포인터와 배열.md",
-    "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/Template.md",
     "POCU 강의노트/C 스타일 문자열/문자열 조작",
     "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이",
@@ -182,8 +185,6 @@
     "POCU 강의노트/포인터/포인터/Pasted image 20231225114259.png",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120447.png",
     "POCU 강의노트/포인터/포인터/Pasted image 20231225120532.png",
-    "POCU 강의노트/포인터/포인터",
-    "POCU 강의노트/포인터/포인터와 연산자",
     "POCU 강의노트/포인터/널 포인터/널 포인터.md",
     "POCU 강의노트/포인터/포인터와 함수/Pasted image 20231228140455.png",
     "POCU 강의노트/포인터/포인터와 함수/ㅇ.md",
@@ -194,7 +195,6 @@
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
-    "POCU 강의노트/C 기본 문법&빌드 단계/스택/스택.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/Pasted image 20231224112634.png",
     "Pasted image 20231224114215.png",
     "Untitled.canvas"
