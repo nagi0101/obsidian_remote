@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15153e864f4b2f53",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfd366b876a029bf",
+  "active": "15153e864f4b2f53",
   "lastOpenFiles": [
     "POCU 강의노트/Template.md",
     "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
