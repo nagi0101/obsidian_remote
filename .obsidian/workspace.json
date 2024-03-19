@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POCU 강의노트/입력/입력/입력.md",
+                "file": "POCU 강의노트/입력/파일 입출력/파일 입출력.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POCU 강의노트/입력/입력/입력.md",
+                "file": "POCU 강의노트/입력/파일 입출력/파일 입출력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POCU 강의노트/입력/입력/입력.md",
+                "file": "POCU 강의노트/입력/파일 입출력/파일 입출력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POCU 강의노트/입력/입력/입력.md"
+                "file": "POCU 강의노트/입력/파일 입출력/파일 입출력.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "03a49e8ea88b37c0",
   "lastOpenFiles": [
-    "파일 입출력",
     "POCU 강의노트/입력/입력/입력.md",
+    "POCU 강의노트/입력/파일 입출력/파일 입출력.md",
+    "POCU 강의노트/입력/파일 입출력",
     "POCU 강의노트/Template.md",
     "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
     "POCU 강의노트/C 스타일 문자열/출력/출력.md",
@@ -176,7 +177,6 @@
     "POCU 강의노트/포인터/포인터와 const/포인터와 const.md",
     "POCU 강의노트/포인터/포인터의 용도",
     "Untitled.md",
-    "POCU 강의노트/포인터/포인터와 const",
     "POCU 강의노트/포인터/포인터와 함수/포인터와 함수.md",
     "대학 강의/주제연구/공산당 선언.md",
     "대학 강의/경희대학교 강의노트.md",
