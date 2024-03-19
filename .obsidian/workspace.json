@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c30a11880df024b",
+        "id": "2fa5ec427cf3e96b",
         "type": "tabs",
         "children": [
           {
-            "id": "15153e864f4b2f53",
+            "id": "6236b4411286cf54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,13 +149,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15153e864f4b2f53",
+  "active": "03a49e8ea88b37c0",
   "lastOpenFiles": [
+    "파일 입출력",
+    "POCU 강의노트/입력/입력/입력.md",
     "POCU 강의노트/Template.md",
     "POCU 강의노트/C 스타일 문자열/문자열 조작/문자열 조작.md",
     "POCU 강의노트/C 스타일 문자열/출력/출력.md",
     "POCU 강의노트/C 스타일 문자열/문자열의 표현과 길이/문자열의 표현과 길이.md",
-    "POCU 강의노트/입력/입력/입력.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 자료형/C 자료형.md",
     "POCU 강의노트/POCU 강의노트.md",
     "POCU 강의노트/입력/입력",
@@ -193,7 +194,6 @@
     "Pasted image 20231225115926.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/분할 컴파일과 전역 변수.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/C 빌드 과정/C 빌드 과정.md",
-    "POCU 강의노트/C 기본 문법&빌드 단계/C const 키워드/C const 키워드.md",
     "POCU 강의노트/C 기본 문법&빌드 단계/분할 컴파일과 전역 변수/Pasted image 20231223193408.png",
     "POCU 강의노트/C 기본 문법&빌드 단계/스택/Pasted image 20231224112634.png",
     "Pasted image 20231224114215.png",
